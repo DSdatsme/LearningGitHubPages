@@ -1,6 +1,9 @@
 # LearningGitHubPages
 #### adding android tips to my github page
 
+for page visit: dsdatsme.github.io/LearningGitHubPages
+
+
 ### Tip 1:
 use hint attribute for textviews to lable what they are for .
 > tools:hint="Set Number"
